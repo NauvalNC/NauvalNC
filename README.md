@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning game development and computer science in general at BINUS University
 - 📫 How to reach me: nauvalmfirdaus@gmail.com
+- 😄 Find Me at: [Linked In](https://www.linkedin.com/in/nauvalmfirdaus/)
+- 💬 Website [NauvalMe](https://nauvalme.blogspot.com)
 
 ### GitHub Statistic
 <p align="left">
