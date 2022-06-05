@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nauval
+### Hi there 👋, I'm Nauval Muhammad Firdaus
 
 - 🌱 I’m currently learning game development and computer science in general at BINUS University
 - 📫 How to reach me: nauvalmfirdaus@gmail.com
